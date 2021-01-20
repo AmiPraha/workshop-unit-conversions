@@ -15,4 +15,9 @@ class Temperature
     {
         return ($this->celsius * 1.8) + 3;
     }
+
+    public function hello(): string
+    {
+        return 'hi';
+    }
 }
