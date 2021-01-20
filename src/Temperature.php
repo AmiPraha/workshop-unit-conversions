@@ -13,6 +13,6 @@ class Temperature
 
     public function toFahrenheit(): float
     {
-        return ($this->celsius * 1.8) +3;
+        return ($this->celsius * 1.8) + 3;
     }
 }
