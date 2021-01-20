@@ -1,16 +1,17 @@
 {
-    "name": ":vendor_name/:package_name",
-    "description": ":package_description",
+    "name": "ami-praha/ami-praha-workshop-unit-conversions",
+    "description": "test description",
     "keywords": [
-        ":vendor_name",
-        ":package_name"
+        "amipraha",
+        "ami-praha",
+        "workshop-unit-conversions"
     ],
-    "homepage": "https://github.com/:vendor_name/:package_name",
+    "homepage": "https://github.com/ami-praha/workshop-unit-conversions",
     "license": "MIT",
     "authors": [
         {
-            "name": ":author_name",
-            "email": ":author_email",
+            "name": "Miloslav Janoušek",
+            "email": "miloslav.janousek@ami.cz",
             "role": "Developer"
         }
     ],
@@ -24,12 +25,12 @@
     },
     "autoload": {
         "psr-4": {
-            "Spatie\\Skeleton\\": "src"
+            "AmiPraha\\WorkshopUnitConversions\\": "src"
         }
     },
     "autoload-dev": {
         "psr-4": {
-            "Spatie\\Skeleton\\Tests\\": "tests"
+            "AmiPraha\\WorkshopUnitConversions\\Tests\\": "tests"
         }
     },
     "scripts": {
