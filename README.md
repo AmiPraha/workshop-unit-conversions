@@ -1,7 +1,7 @@
 # test description
 
 [![Latest Version on Packagist](https://img.shields.io/packagist/v/amipraha/ami-praha-workshop-unit-conversions.svg?style=flat-square)](https://packagist.org/packages/amipraha/ami-praha-workshop-unit-conversions)
-[![GitHub Tests Action Status](https://img.shields.io/github/workflow/status/amipraha/ami-praha-workshop-unit-conversions/Tests?label=tests)](https://github.com/ami-praha/workshop-unit-conversions/actions?query=workflow%3ATests+branch%3Amaster)
+[![GitHub Tests Action Status](https://img.shields.io/github/workflow/status/amipraha/ami-praha-workshop-unit-conversions/Tests?label=tests)](https://github.com/AmiPraha/workshop-unit-conversions/actions?query=workflow%3ATests+branch%3Amaster)
 [![Total Downloads](https://img.shields.io/packagist/dt/amipraha/ami-praha-workshop-unit-conversions.svg?style=flat-square)](https://packagist.org/packages/amipraha/ami-praha-workshop-unit-conversions)
 
 
